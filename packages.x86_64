@@ -2,11 +2,10 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
-b43-fwcutter
 base
 bind
 brltty
-broadcom-wl
+broadcom-wl-dkms
 btrfs-progs
 clonezilla
 cloud-init
@@ -16,6 +15,7 @@ ddrescue
 dhclient
 dhcpcd
 diffutils
+dkms
 dmidecode
 dmraid
 dnsmasq
@@ -53,6 +53,7 @@ linux
 linux-atm
 linux-firmware
 linux-firmware-marvell
+linux-headers
 livecd-sounds
 lsscsi
 lvm2
